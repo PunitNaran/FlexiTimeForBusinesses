@@ -1,0 +1,27 @@
+
+    Add company login
+    Add WorkerID
+    Add Hours for each worker
+    Must be in work Compulsory at times and dates or month
+    Day/Week/Month Hours Deadline worked
+    Project Completion
+    Emailing Workers of Completed Work Day (Client/Server)
+    Monitor overtime of workers
+    Email worker of Week completed
+    Email worker of deficit time
+    Possibility of deficit deadline – loss in pay or holidays revoked
+    Hours worker aboard on other site
+    Meeting acceptance
+        Accept meeting within the compulsory hours at any given time
+        Working in optional hours must have approval from invitees besides optional
+            Must be give a notice time of x number of times / days
+        Sending messages back to the person that creating the meeting
+        Setting rooms if needed
+        Time taken for meeting
+
+ 
+
+Slacker
+
+    Software which monitors users computer to see if they are working and estimate how long they have been working for. 
+
